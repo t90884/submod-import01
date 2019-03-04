@@ -1,0 +1,3 @@
+[submodule "submod-temp01"]
+	path = submod-temp01
+	url = https://github.com/t90icloud/submod-temp01.git
